@@ -1,6 +1,8 @@
 # Como Treinar e Implantar Modelos YOLO com Ultralytics (YOLO11, YOLOv8 e YOLOv5)
 Tutoriais e exemplos mostrando como treinar e implantar modelos YOLO com Ultralytics.
 
+**Creditos Para: https://github.com/EdjeElectronics**
+
 ## Treinar Modelos YOLO
 
 **Opção 1. Com o Google Colab**
@@ -58,4 +60,4 @@ O Raspberry Pi 4 e 5 são suficientemente potentes para executar modelos YOLO na
 
 [Como executar modelos de detecção YOLO no Raspberry Pi](https://www.ejtech.io/learn/yolo-on-raspberry-pi)
 
-**Creditos Para: https://github.com/EdjeElectronics**
+
