@@ -7,7 +7,7 @@ Tutoriais e exemplos mostrando como treinar e implantar modelos YOLO com Ultraly
 
 Clique abaixo para acessar um notebook do Colab para treinar modelos YOLO. Ele torna o treinamento de um modelo YOLO personalizado tão fácil quanto fazer o upload de um conjunto de dados de imagens e executar alguns blocos de código.
 
-<a href="[https://colab.research.google.com/github/EdjeElectronics/Train-and-Deploy-YOLO-Models/blob/main/Train_YOLO_Models.ipynb](https://colab.research.google.com/drive/12_tjJdJqi6TaCEkqm9i-DMWZodI6kGVY?usp=sharing)" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab"/></a>
+<a href="https://colab.research.google.com/drive/12_tjJdJqi6TaCEkqm9i-DMWZodI6kGVY?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Abrir no Colab"/></a>
 
 **Opção 2. Em um PC local**
 
